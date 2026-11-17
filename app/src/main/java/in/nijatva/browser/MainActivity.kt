@@ -2767,6 +2767,11 @@ document.open();document.write(h);document.close();
             b.menuRow(pc, R.drawable.ic_code, getString(R.string.m_page_scripts), null, act(32))
             b.menuRow(pc, R.drawable.ic_tools, getString(R.string.m_tools), null, act(19))
             b.menuRow(pc, R.drawable.ic_ai, getString(R.string.ai_title), null, act(23))
+            b.menuRow(pc, R.drawable.ic_globe, getString(R.string.m_web_version),
+                getString(R.string.m_web_version_sum), View.OnClickListener {
+                    hideMenuPanel()
+                    newTab("https://vasudev-work.github.io/nijatva-browser/")
+                })
             b.menuRow(pc, R.drawable.ic_help, getString(R.string.m_help), null, act(30))
             return
         }

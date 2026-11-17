@@ -963,4 +963,6 @@
     <string name="s_focus">Focus - blocked sites</string>
     <string name="dev_email">Email</string>
     <string name="dev_maintains">Maintains</string>
+    <string name="m_web_version">Nijatva on the web</string>
+    <string name="m_web_version_sum">The page, the store, and a window you can try</string>
 </resources>
