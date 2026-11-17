@@ -1,4 +1,4 @@
-# Nija
+# Nijatva
 
 An Android browser built on the system WebView. No Google Play Services, no account,
 no telemetry.
@@ -10,7 +10,7 @@ Package `in.nijatva.browser` · Android 7 and up · about 9 MB · free
 ## What it is
 
 Most Android browsers either ship their own copy of Chromium or are a thin shell around a
-WebView with an address bar. Nija is the second kind, taken seriously: the engine is the
+WebView with an address bar. Nijatva is the second kind, taken seriously: the engine is the
 one already on your phone, and everything around it — blocking, tabs, containers, reading,
 speech, downloads — is written here.
 
@@ -46,7 +46,7 @@ zoom and dark-mode setting, and a settings screen with search over 34 screens.
 
 ## Extensions
 
-Nija installs small scripts from its own store — 39 of them, each with an icon, a
+Nijatva installs small scripts from its own store — 39 of them, each with an icon, a
 version, a category and the permissions it asks for. The catalogue is a JSON file with a
 signature and a sha256 per script; both this browser and the store page read it, and a
 script that changed under you is refused rather than installed.
