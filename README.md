@@ -53,7 +53,7 @@ script that changed under you is refused rather than installed.
 
 These are scripts, not Chrome extensions. See the next section for why.
 
-Store: <https://vasudev-work.github.io/nijatva-web-store/>
+Store: <https://nijatva.github.io/nijatva-web-store/>
 
 ## What it does not do
 
@@ -78,7 +78,7 @@ site data from Settings removes cookies and storage; uninstalling removes everyt
 
 ## Install
 
-Download the APK from [Releases](https://github.com/vasudev-work/nijatva-browser/releases)
+Download the APK from [Releases](https://github.com/nijatva/nijatva-browser/releases)
 and open it. Android will ask you to allow installing from this source — the build is
 signed with a debug key, which is why that prompt appears.
 
@@ -109,6 +109,6 @@ want to reuse part of this, open an issue and ask.
 
 ## Contact
 
-Issues and feature requests: <https://github.com/vasudev-work/nijatva-browser/issues>
+Issues and feature requests: <https://github.com/nijatva/nijatva-browser/issues>
 
 Email: vasudev.work@rediffmail.com
